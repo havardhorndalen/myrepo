@@ -9,3 +9,5 @@ Repository for testing my Git/GitHub setup
 
 
 This is a line from RStudio
+
+New line straight from GitHub!
